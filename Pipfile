@@ -1,0 +1,25 @@
+[[source]]
+
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+
+[dev-packages]
+
+
+
+[packages]
+
+django = "*"
+requests = "*"
+numpy = "*"
+pyproj = "*"
+pillow = "*"
+nltk = "*"
+
+
+
+[requires]
+
+python_version = "3.5"
